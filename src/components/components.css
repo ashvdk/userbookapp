@@ -1,0 +1,12 @@
+.chat > .body > .user {
+  display: flex;
+  margin-bottom: 10px;
+  border-bottom: 1px solid #d1cdcd;
+  padding-bottom: 10px;
+  cursor: pointer;
+}
+
+.chat > .body {
+  overflow: scroll;
+  height: 352px;
+}
